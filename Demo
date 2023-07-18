@@ -1,5 +1,6 @@
 class Main{
 public static void main(String[]){
   System.out.println("Hello World, Hey there!");
+  System.out.println("New feature!");
  }
 }
